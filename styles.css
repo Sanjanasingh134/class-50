@@ -17,10 +17,6 @@ body {
   display:flex;
   flex-wrap: wrap;
   justify-content:flex-start;
-
-
-
-  flex-wrap: wrap;
   font-family: sans-serif;
 }
 
