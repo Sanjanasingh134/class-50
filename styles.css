@@ -17,7 +17,7 @@ body {
 
   display:flex;
   flex-wrap: wrap;
-  justify-content:flex-start;
+  justify-content:space-evenly;
   font-family: sans-serif;
 }
 
